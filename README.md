@@ -12,3 +12,10 @@
 - [ ] **Implement Login and MFA**
 - [ ] **Implement Transactions**
 - [ ] **Upgrade Design**
+
+
+## References
+
+- https://docs.arbitrum.io/welcome/arbitrum-gentle-introduction
+- https://apollox-finance.gitbook.io/apollox-finance/api/api-documentation
+  
